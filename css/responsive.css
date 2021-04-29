@@ -1,0 +1,17 @@
+@media (max-width: 360px) {
+    #showcase h1 {
+        font-size: 3rem;
+    }
+}
+
+@media (max-width: 411px) {
+    #showcase h1 {
+        font-size: 3.5rem;
+    }
+}
+
+@media (max-width: 414px) {
+    #showcase h1 {
+        font-size: 3.5rem;
+    }
+}
